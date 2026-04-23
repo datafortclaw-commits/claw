@@ -1,0 +1,14 @@
+{
+  "providers": {},
+  "agents": {
+    "defaults": {
+      "model": "anthropic/claude-opus-4-5",
+      "temperature": 0.7,
+      "maxTokens": 4096
+    }
+  },
+  "tools": {
+    "restrictToWorkspace": false
+  },
+  "channels": {}
+}
